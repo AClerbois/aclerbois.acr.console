@@ -7,6 +7,7 @@ namespace aclerbois.acr.console
         static void Main(string[] args)
         {
             Console.WriteLine("Hello Azure Container Registry World!");
+            Console.WriteLine("It's AClerbois");
         }
     }
 }
